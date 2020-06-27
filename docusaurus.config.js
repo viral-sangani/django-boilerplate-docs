@@ -21,7 +21,7 @@ module.exports = {
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
+        // { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/viral-sangani/django-boilerplate",
           label: "GitHub",
@@ -90,11 +90,11 @@ module.exports = {
           // Please change this to your repo.
           editUrl: "https://github.com/viral-sangani/django-boilerplate",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl: "https://github.com/viral-sangani/django-boilerplate",
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   editUrl: "https://github.com/viral-sangani/django-boilerplate",
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
