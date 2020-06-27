@@ -8,7 +8,7 @@ We encourage users to build application tests.
 
 ### Pytest
 
-This project uses the [Pytest](https://docs.pytest.org/en/latest/example/simple.html), a framework for easily building simple and scalable tests. After you have set up to [develop locally(https://cookiecutter-django.readthedocs.io/en/latest/developing-locally.html)], run the following commands to make sure the testing environment is ready:
+This project uses the [Pytest](https://docs.pytest.org/en/latest/example/simple.html), a framework for easily building simple and scalable tests. After you have set up to develop locally, run the following commands to make sure the testing environment is ready:
 
 ```bash
 pytest

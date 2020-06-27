@@ -14,7 +14,7 @@ Full instructions follow, but here's a high-level view.
 
 2. Set your config variables in the _postactivate_ script
 
-3. Run the _manage.py_ `migrate` and `collectstatic` {%- if cookiecutter.use_compressor == "y" %}and `compress` {%- endif %}commands
+3. Run the _manage.py_ `migrate` and `collectstatic` commands
 
 4. Add an entry to the PythonAnywhere _Web tab_
 

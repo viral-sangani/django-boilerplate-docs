@@ -4,7 +4,7 @@ module.exports = {
     "Ready for production, boilerplate with all you can think of functionalities.",
   url: "https://django-boilerplate.viralsangani.me",
   baseUrl: "/",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
   organizationName: "viralsangani.me", // Usually your GitHub org/user name.
   projectName: "django-boilerplate", // Usually your repo name.
   themeConfig: {
@@ -12,7 +12,7 @@ module.exports = {
       title: "Django Boilerplate",
       logo: {
         alt: "Django Boilerplate",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       links: [
         {
