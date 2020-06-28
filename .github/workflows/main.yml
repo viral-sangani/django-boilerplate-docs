@@ -29,4 +29,4 @@ jobs:
           message: |
             Django Boilerplate Docs is successfully updated on AWS S3.
             Invalidaion on AWS Cloudfront is started.
-            Checkou website at - django-boilerplate-docs.viralsangani.me
+            Checkou website at - https://django-boilerplate-docs.viralsangani.me/

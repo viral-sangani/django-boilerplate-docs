@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Django Boilerplate",
+  title: "Django Boilerplate!",
   tagline:
     "Ready for production, boilerplate with all you can think of functionalities.",
   url: "https://django-boilerplate.viralsangani.me",
